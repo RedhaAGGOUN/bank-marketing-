@@ -127,7 +127,7 @@ Build an uplift modeling module
 Automate retraining pipelines
 
 👨‍💻 Author
-Dr. Redha C. Aggoun
+Redha  Aggoun
 Feel free to reach out for collaboration or more advanced ML projects.
 
 📄 License
