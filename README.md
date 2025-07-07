@@ -135,7 +135,3 @@ This project is for educational demonstration. For commercial use, please contac
 
 Enjoy predicting & strategizing! 🎯
 
-yaml
-Copy
-Edit
-
